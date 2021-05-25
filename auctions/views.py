@@ -20,10 +20,11 @@ logger = logging.getLogger('mylogger')
 class ItemForm(forms.ModelForm):
     class Meta:
         category_choices = [
-            ('clothing', 'Clothing'),
-            ('toys', 'Toys'),
-            ('electronics', 'Electronics'),
-            ('art','Art')
+           
+            ('1st Year', '1st year'),
+            ('2nd Year', '2nd year'),
+            ('3rd Year', '3rd year'),
+            ('4th Year','4th year')
         ]
         model = Item
         fields = ['title', 'description', 'img_url', 'starting_bid', 'category']
@@ -358,10 +359,10 @@ def category_list_redirect(request, category):
 
 def category_list(request):
     category_choices = [
-            ('clothing', 'Clothing'),
-            ('toys', 'Toys'),
-            ('electronics', 'Electronics'),
-            ('art','Art')]
+            ('1st Year', '1st year'),
+            ('2nd Year', '2nd year'),
+            ('3rd Year', '3rd year'),
+            ('4th Year','4th year')]
     return render(request, "auctions/categories.html",{
         "categories":category_choices
     })

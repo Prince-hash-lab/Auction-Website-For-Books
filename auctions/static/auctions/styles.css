@@ -4,3 +4,24 @@ body {
 .col-lg.table-header{
     text-align: center;
 }
+
+/* div nav ul {
+    display: flex;
+    justify-content: space-between;
+  }
+      */
+.navbar {
+display: flex;
+table-layout: auto;
+justify-content: space-between;
+      }
+/* 
+      .navbar navbar-light{
+        display: flex;
+      } */
+
+      #addEventForm {
+        position: relative;
+        float: right;
+    
+      }

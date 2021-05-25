@@ -2,7 +2,7 @@
 
 {% block body %}
 
-    <h2>Register</h2>
+    <h2>Sign Up</h2>
 
     {% if message %}
         <div>{{ message }}</div>
@@ -22,9 +22,9 @@
         <div class="form-group">
             <input class="form-control" type="password" name="confirmation" placeholder="Confirm Password">
         </div>
-        <input class="btn btn-primary" type="submit" value="Register">
+        <input class="btn btn-primary" type="submit" value="Create Account">
     </form>
 
-    Already have an account? <a href="{% url 'auctions:login' %}">Log In here.</a>
+    Already have an account? <a href="{% url 'auctions:login' %}">Sign In</a>
 
 {% endblock %}
