@@ -128,9 +128,9 @@
               <h5>Comments</h5>
              <div class="media-list">
                  <li class="media">
-                     <a class="pull-left" href="#">
+                     {% comment %} <a class="pull-left" href="#">
                         <img class="media-object rounded-circle" height="150px" src="{% static 'auctions/media/alejo_cat.jpeg'%}" alt="profile">
-                     </a>
+                     </a> {% endcomment %}
                      <div style="background-color: #E2E2E2; " class="media-body">
                          <div style="padding: 20px; " class="well well-lg">
                              <h4 class="media-heading text-uppercase reviews">{{user.username}}</h4>
@@ -141,7 +141,7 @@
                                 <li>2014</li>
                              </ul>
                              <p class="media-comment">
-                                Great job Alejo, Keep it up!
+                                Great job, Keep it up!
                              </p>
                          </div>
 
@@ -163,7 +163,7 @@
                                <li>2014</li>
                             </ul>
                             <p class="media-comment">
-                               Great job Alejo, Keep it up!
+                               Great job , Keep it up!
                             </p>
                         </div>
 

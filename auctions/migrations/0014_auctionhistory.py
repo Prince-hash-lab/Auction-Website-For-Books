@@ -6,7 +6,8 @@ import django.db.models.deletion
 
 
 class Migration(migrations.Migration):
-
+    # next line is added
+    # DEFAULT_AUTO_FIELD='django.db.models.AutoField'  
     dependencies = [
         ('auctions', '0013_item_status'),
     ]

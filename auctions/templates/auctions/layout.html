@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>{% block title %}Auctions{% endblock %}</title>
+        <title>{% block title %}Thapar Auctions{% endblock %}</title>
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
         <link href="{% static 'auctions/styles.css' %}" rel="stylesheet">
         <link  href="{% static 'auctions/cards.css' %}" rel="stylesheet">
@@ -126,12 +126,6 @@
                 Not signed in.
             {% endif %}
         </div>
-         
-        <nav class="navbar navbar-light bg-light">
-        <a class="navbar-brand" href="#">
-        <img src=" https://www.myentranceexam.in/wp-content/uploads/2020/06/thapar2019.jpg" width="600" height="120" alt="">
-        </a>
-        </nav>
         <hr>
         {% block body %}
         {% endblock %}

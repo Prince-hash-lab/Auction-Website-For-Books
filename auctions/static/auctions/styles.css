@@ -19,9 +19,12 @@ justify-content: space-between;
       .navbar navbar-light{
         display: flex;
       } */
-
-      #addEventForm {
-        position: relative;
-        float: right;
-    
-      }
+/* 
+      #centerimg
+      {
+        display: block;  
+        margin-left: auto;  
+        margin-right: auto;  
+        border: 8px ridge blue;  
+        padding: 5px; 
+      } */
