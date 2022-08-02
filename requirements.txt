@@ -1,1 +1,7 @@
-django
+Django
+guicorn
+Pillow
+pytz
+sqlparse
+whitenoise
+asgiref
