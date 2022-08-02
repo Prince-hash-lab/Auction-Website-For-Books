@@ -1,0 +1,30 @@
+body {
+    padding: 10px;
+}
+.col-lg.table-header{
+    text-align: center;
+}
+
+/* div nav ul {
+    display: flex;
+    justify-content: space-between;
+  }
+      */
+.navbar {
+display: flex;
+table-layout: auto;
+justify-content: space-between;
+      }
+/* 
+      .navbar navbar-light{
+        display: flex;
+      } */
+/* 
+      #centerimg
+      {
+        display: block;  
+        margin-left: auto;  
+        margin-right: auto;  
+        border: 8px ridge blue;  
+        padding: 5px; 
+      } */

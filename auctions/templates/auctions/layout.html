@@ -1,0 +1,133 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>{% block title %}Thapar Auctions{% endblock %}</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+        <link href="{% static 'auctions/styles.css' %}" rel="stylesheet">
+        <link  href="{% static 'auctions/cards.css' %}" rel="stylesheet">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+    </head>
+   {% comment %} https://www.myentranceexam.in/wp-content/uploads/2020/06/thapar2019.jpg {% endcomment %}
+
+
+    <body>
+       
+          
+            <h1 style="text-align: center;color:#A93226">Thapar Book Biding Store</h1> 
+            <div > 
+            
+             <ul class="navbar">
+                <img src="https://factstranscript.com/wp-content/uploads/2020/07/ti.jpg" width= 9% height=8% alt="">
+
+                <img src="https://images.squarespace-cdn.com/content/v1/5bff12f036099b60838b10f7/1561757621406-SVJ2YX8DXFBLXEO1RBBS/ke17ZwdGBToddI8pDm48kMtiXMEMZ8ID8MVhA-T_Qc9Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PITnpAyX_dGZoSaTWLsWN0zAj5xdGjLNRKp-vUPPLOxh8/book_scene1.gif" width= 9% height=8% alt="">
+
+                <img src="https://cdn.dribbble.com/users/2040943/screenshots/8249040/comp-2.gif" width= 9% height=8% alt="">
+                <img src="https://static.wixstatic.com/media/827c6d_4cad2cdf285d4671993ccf0c14d5e924~mv2.gif/v1/fit/w_280,h_210,q_90/827c6d_4cad2cdf285d4671993ccf0c14d5e924~mv2.gif" width= 9% height=8% alt="">
+                <img src="https://acegif.com/wp-content/gifs/book-73.gif" width= 9% height=8% alt="">
+                <img src="https://cdn.dribbble.com/users/200045/screenshots/13995181/media/2f2d2082928319cb3bcca17be3b1ecf4.gif" width= 9% height=8% alt="">
+                <img src="https://cdn.dribbble.com/users/2367833/screenshots/7816190/media/b1aaf5c98510012b56422d1619dc62e8.gif" width= 9% height=8% alt="">
+                <img src="https://www.wlbschools.com/cms/lib/NJ01001458/Centricity/Domain/155/raibow.gif" width= 9% height=8% alt="">
+                <img src="https://cdn.dribbble.com/users/2040943/screenshots/8249040/comp-2.gif" width= 9% height=8% alt="">
+                <img src="https://cdn.dribbble.com/users/218750/screenshots/2136737/linn.gif" width= 9% height=8% alt="">
+
+            </ul>
+           
+         </div>
+       {% comment %} https://i.pinimg.com/originals/61/ed/8f/61ed8fd8bdc613adaccf8c05aa5ab386.gif {% endcomment %}
+         {% comment %}
+        <nav class="navbar navbar-light bg-light">
+        <a class="navbar-brand" href="#">
+        <img src=" https://www.myentranceexam.in/wp-content/uploads/2020/06/thapar2019.jpg" width="600" height="120" alt="">
+        </a>
+        </nav> {% endcomment %}
+        {% comment %} <div>
+            {% if user.is_authenticated %}
+                Signed in as <strong>{{ user.username }}</strong>.
+            {% else %}
+                Not signed in.
+            {% endif %}
+        </div> {% endcomment %}
+        {% comment %} <ul class="nav">
+            <li class="nav-item">
+                <a class="nav-link" href="{% url 'auctions:index' %}">Active Listings</a>
+            </li>
+            {% if user.is_authenticated %}
+                <li class="nav-item">
+                    <a class="nav-link" href="{% url 'auctions:logout' %}">Log Out</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{% url 'auctions:add' %}">Add Item</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{% url 'auctions:watchlist' %}">Watchlist</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{% url 'auctions:auctions_history' %}">Auctions History</a>
+                </li>
+            {% else %}
+                <li class="nav-item">
+                    <a class="nav-link" href="{% url 'auctions:login' %}">Log In</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{% url 'auctions:register' %}">Register</a>
+                </li>
+            {% endif %}
+            <li class="nav-item">
+                <a class="nav-link" href="{% url 'auctions:category_list' %}">Categories</a>
+            </li>
+        </ul> {% endcomment %}
+ {% comment %} <nav class="navbar navbar-light bg-light">
+  <a class="navbar-brand" href="#">
+    <img src="/docs/4.0/assets/brand/bootstrap-solid.svg" width="30" height="30" class="d-inline-block align-top" alt="">
+    Bootstrap
+  </a>
+</nav> {% endcomment %}
+{% comment %} f0f8ff {% endcomment %}
+
+         <ul class="navbar navbar-light" style="background-color: #f0f8ff;">
+            <li class="nav-item">
+                <a class="nav-link" href="{% url 'auctions:index' %}">Active Listings</a>
+            </li> 
+            <li class="nav-item">
+                <a class="nav-link" href="{% url 'auctions:category_list' %}">Categories</a>
+            </li>
+            {% if user.is_authenticated %}
+                
+                <li class="nav-item">
+                    <a class="nav-link" href="{% url 'auctions:add' %}">Add Item</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{% url 'auctions:watchlist' %}">Watchlist</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{% url 'auctions:auctions_history' %}">Auctions History</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{% url 'auctions:logout' %}">Log Out</a>
+                </li>
+            {% else %}
+                <li class="nav-item">
+                    <a class="nav-link" href="{% url 'auctions:login' %}">Sign In</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{% url 'auctions:register' %}">Sign Up</a>
+                </li>
+            {% endif %}
+           
+        </ul>
+        <div id="addEventForm">
+            {% if user.is_authenticated %}
+                Signed in as <strong>{{ user.username }}</strong>.
+            {% else %}
+                Not signed in.
+            {% endif %}
+        </div>
+        <hr>
+        {% block body %}
+        {% endblock %}
+    </body>
+</html>
