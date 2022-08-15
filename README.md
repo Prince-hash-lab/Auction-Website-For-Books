@@ -4,12 +4,13 @@
 A Web App for auction of used books and notes of students of Thapar institute of Engineering and technology.
 The main purpose of this software is that one can find used books and notes of topper stundents at best prices and no middleman is involved in the
 transaction. 
-## Screenshots
+
+## FrontEnd 
 <table>
   <tr>
-    <td>Sign up </td>
-     <td>Active listing</td>
-     <td>Writing comments</td>
+    <td>Sign up Page </td>
+     <td>Active listing Page</td>
+     <td>Writing comments Page</td>
   </tr>
   <tr>
     <td><img src="https://github.com/Prince-hash-lab/Auction-Website-For-Books/blob/main/auctions/static/auctions/media/(F)%20UI%20and%20working%20snapshots/1%20sign%20up%20.png" width=340 height=380></td>
@@ -18,11 +19,18 @@ transaction.
   </tr>
  </table>
 
-## Data base tables
+## BackEnd
 
-<p align="center">
-  <img src="https://github.com/Prince-hash-lab/Auction-Website-For-Books/blob/main/auctions/static/auctions/media/Database.jpg" width="350" title="Database table">
-<!--   <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text"> -->
-</p>
-
+<table>
+  <tr>
+    <td>DataBase schema</td>
+     <td>class Diagram</td>
+     <td>State Diagram</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Prince-hash-lab/Auction-Website-For-Books/blob/main/auctions/static/auctions/media/Database.jpg" width=340 height=380></td>
+    <td><img src="https://github.com/Prince-hash-lab/Auction-Website-For-Books/blob/main/auctions/static/auctions/media/(F)%20Class%20diagram/2.0%20class%20diagram.jpg" width=340 height=380></td>
+    <td><img src="https://github.com/Prince-hash-lab/Auction-Website-For-Books/blob/main/auctions/static/auctions/media/statediagram/sd.jpg" width=340 height=380></td>
+  </tr>
+ </table>
 
