@@ -61,4 +61,23 @@ transaction.
    
   </tr>
  </table>
-<img src="https://github.com/Prince-hash-lab/Auction-Website-For-Books/blob/main/auctions/static/auctions/media/use%20case/1.0%20use_case_diagram.jpg" width=540 height=740>
+ 
+<table>
+  <tr>
+    <td>Data flow Diagram</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Prince-hash-lab/Auction-Website-For-Books/blob/main/auctions/static/auctions/media/data%20flow%20diagram/1.0%20DFD%20LEVEL%200.jpg" width=740 height=240></td>
+  </tr>
+ </table>
+
+ 
+<table>
+  <tr>
+    <td>Use Case Diagram</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Prince-hash-lab/Auction-Website-For-Books/blob/main/auctions/static/auctions/media/use%20case/1.0%20use_case_diagram%20-%20Copy.jpg" width=540 height=740></td>
+  </tr>
+ </table>
+
