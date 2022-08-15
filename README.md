@@ -6,4 +6,7 @@ The main purpose of this software is that one can find used books and notes of t
 transaction. 
 ## Screenshots
 
-![alt text](https://drive.google.com/file/d/18Izf7fGbJoPzdKjlQclyvTBYULKjepw2/view?usp=sharing)
+![alt text](
+![alt text](https://github.com/Prince-hash-lab/Auction-Website-For-Books/blob/main/auctions/static/auctions/media/(F)%20UI%20and%20working%20snapshots/1%20sign%20up%20.png)
+
+)
