@@ -82,7 +82,7 @@ transaction.
   </tr>
  </table>
  
-<table style="border:1px solid black;margin-left:auto;margin-right:auto;>
+<table style="border:1px solid black;margin-left:auto;margin-right:auto;">
   <tr>
     <td>Use Case Diagram</td>
   </tr>
