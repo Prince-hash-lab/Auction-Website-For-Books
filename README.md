@@ -77,7 +77,7 @@ transaction.
     <td>Activity Diagram</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Prince-hash-lab/Auction-Website-For-Books/blob/main/auctions/static/auctions/media/media/activity%20diagram/3.0%20Activity%20dmg%20Final_page-0001.jpg" width=1000 height=1040></td>
+    <td><img src="https://github.com/Prince-hash-lab/Auction-Website-For-Books/blob/main/auctions/static/auctions/media/media/activity%20diagram/3.0%20Activity%20dmg%20Final_page-0001.jpg" width=1000 height=1030></td>
   </tr>
  </table>
  
