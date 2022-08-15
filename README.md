@@ -19,6 +19,20 @@ transaction.
   </tr>
  </table>
 
+<table>
+  <tr>
+    <td>Adding Item </td>
+     <td>Times Up By seller Page</td>
+     <td>Auctions Won Page</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Prince-hash-lab/Auction-Website-For-Books/blob/main/auctions/static/auctions/media/(F)%20UI%20and%20working%20snapshots/10.%20add%20item%20.png" width=340 height=380></td>
+    <td><img src="https://github.com/Prince-hash-lab/Auction-Website-For-Books/blob/main/auctions/static/auctions/media/(F)%20UI%20and%20working%20snapshots/14.%20times%20up%20by%20seller.png" width=340 height=380></td>
+    <td><img src="https://github.com/Prince-hash-lab/Auction-Website-For-Books/blob/main/auctions/static/auctions/media/(F)%20UI%20and%20working%20snapshots/15.%20Auction%20won%20history.png" width=340 height=380></td>
+  </tr>
+ </table>
+
+
 ## BackEnd
 
 <table>
