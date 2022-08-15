@@ -13,9 +13,9 @@ transaction.
      <td>Writing comments Page</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Prince-hash-lab/Auction-Website-For-Books/blob/main/auctions/static/auctions/media/(F)%20UI%20and%20working%20snapshots/1%20sign%20up%20.png" width=340 height=280></td>
-    <td><img src="https://github.com/Prince-hash-lab/Auction-Website-For-Books/blob/main/auctions/static/auctions/media/(F)%20UI%20and%20working%20snapshots/3.%20Active%20Listing.png" width=340 height=280></td>
-    <td><img src="https://github.com/Prince-hash-lab/Auction-Website-For-Books/blob/main/auctions/static/auctions/media/(F)%20UI%20and%20working%20snapshots/8.%20writing%20comment%20.png" width=340 height=280></td>
+    <td><img src="https://github.com/Prince-hash-lab/Auction-Website-For-Books/blob/main/auctions/static/auctions/media/(F)%20UI%20and%20working%20snapshots/1%20sign%20up%20.png" width=300 height=250></td>
+    <td><img src="https://github.com/Prince-hash-lab/Auction-Website-For-Books/blob/main/auctions/static/auctions/media/(F)%20UI%20and%20working%20snapshots/3.%20Active%20Listing.png" width=300 height=250></td>
+    <td><img src="https://github.com/Prince-hash-lab/Auction-Website-For-Books/blob/main/auctions/static/auctions/media/(F)%20UI%20and%20working%20snapshots/8.%20writing%20comment%20.png" width=300 height=250></td>
   </tr>
  </table>
 
