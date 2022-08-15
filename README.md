@@ -56,8 +56,8 @@ transaction.
      <td>Deployment Diagram</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Prince-hash-lab/Auction-Website-For-Books/blob/main/auctions/static/auctions/media/(F)%20COMPONENT%20DIAGRAM/Screenshot%202022-08-15%20195156.jpg" width=440 height=380></td>
-    <td><img src="https://github.com/Prince-hash-lab/Auction-Website-For-Books/blob/main/auctions/static/auctions/media/(F)%20Deployment%20diagram/dd.jpg" width=440 height=380></td>
+    <td><img src="https://github.com/Prince-hash-lab/Auction-Website-For-Books/blob/main/auctions/static/auctions/media/(F)%20COMPONENT%20DIAGRAM/Screenshot%202022-08-15%20195156.jpg" width=540 height=340></td>
+    <td><img src="https://github.com/Prince-hash-lab/Auction-Website-For-Books/blob/main/auctions/static/auctions/media/(F)%20Deployment%20diagram/dd.jpg" width=540 height=340></td>
    
   </tr>
  </table>
