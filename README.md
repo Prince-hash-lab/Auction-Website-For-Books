@@ -16,14 +16,14 @@ transaction.
 
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+    <td>Sign up </td>
+     <td>Active listing</td>
+     <td>Writing comments</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Prince-hash-lab/Auction-Website-For-Books/blob/main/auctions/static/auctions/media/(F)%20UI%20and%20working%20snapshots/1%20sign%20up%20.png" width=270 height=480></td>
-    <td><img src="https://github.com/Prince-hash-lab/Auction-Website-For-Books/blob/main/auctions/static/auctions/media/(F)%20UI%20and%20working%20snapshots/3.%20Active%20Listing.png" width=270 height=480></td>
-    <td><img src="https://github.com/Prince-hash-lab/Auction-Website-For-Books/blob/main/auctions/static/auctions/media/(F)%20UI%20and%20working%20snapshots/8.%20writing%20comment%20.png" width=270 height=480></td>
+    <td><img src="https://github.com/Prince-hash-lab/Auction-Website-For-Books/blob/main/auctions/static/auctions/media/(F)%20UI%20and%20working%20snapshots/1%20sign%20up%20.png" width=270 height=380></td>
+    <td><img src="https://github.com/Prince-hash-lab/Auction-Website-For-Books/blob/main/auctions/static/auctions/media/(F)%20UI%20and%20working%20snapshots/3.%20Active%20Listing.png" width=270 height=380></td>
+    <td><img src="https://github.com/Prince-hash-lab/Auction-Website-For-Books/blob/main/auctions/static/auctions/media/(F)%20UI%20and%20working%20snapshots/8.%20writing%20comment%20.png" width=270 height=380></td>
   </tr>
  </table>
 
