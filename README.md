@@ -81,13 +81,15 @@ transaction.
     <td><img src="https://github.com/Prince-hash-lab/Auction-Website-For-Books/blob/main/auctions/static/auctions/media/activity%20diagram/3.0%20Activity%20dmg%20Final_page-0001.jpg" width=1000 height=1040></td>
   </tr>
  </table>
- 
-<table align="center">
+<!--  
+<table align="center"> -->
+
+<table >
   <tr>
     <td>Use Case Diagram</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Prince-hash-lab/Auction-Website-For-Books/blob/main/auctions/static/auctions/media/use%20case/1.0%20use_case_diagram%20-%20Copy.jpg" width=540 height=640></td>
+    <td><img src="https://github.com/Prince-hash-lab/Auction-Website-For-Books/blob/main/auctions/static/auctions/media/use%20case/1.0%20use_case_diagram%20-%20Copy.jpg" width=640 height=740></td>
    
   </tr>
  </table>
