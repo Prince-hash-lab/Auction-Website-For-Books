@@ -61,7 +61,7 @@ transaction.
    
   </tr>
  </table>
- 
+<!--  
 <table>
   <tr>
     <td>Data flow Diagram</td>
@@ -69,7 +69,7 @@ transaction.
   <tr>
     <td><img src="https://github.com/Prince-hash-lab/Auction-Website-For-Books/blob/main/auctions/static/auctions/media/data%20flow%20diagram/1.0%20DFD%20LEVEL%200.jpg" width=740 height=240></td>
   </tr>
- </table>
+ </table> -->
 
  
 <table>
